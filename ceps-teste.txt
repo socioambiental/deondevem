@@ -1,0 +1,12 @@
+05054-000 Cantareira
+04546-000 Guarapiranga
+07400-000 Alto Tietê
+06852-040 Alto Cotia
+06345-600 Baixo Cotia
+09842-047 Rio Grande
+09371-056 Rio Claro
+08715-190 Isolados
+07144-170 Isolados
+04891-270 Isolados
+
+
